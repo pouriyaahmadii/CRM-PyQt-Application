@@ -22,3 +22,7 @@ This is a customer relationship management (CRM) tool built using PyQt5 and SQLi
 2.	Run the application:
    ```bash
    python crm.py
+==================
+## Screenshots
+
+![Screenshot 1](screenshots/img1.png)
