@@ -19,3 +19,6 @@ This is a customer relationship management (CRM) tool built using PyQt5 and SQLi
    ```bash
    pip install PyQt5 jdatetime pandas reportlab
    
+2.	Run the application:
+   ```bash
+   python crm.py
