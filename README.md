@@ -14,6 +14,11 @@ This is a customer relationship management (CRM) tool built using PyQt5 and SQLi
 - **Custom Date Filtering**: Supports Jalali and Gregorian date inputs.
 - **Export Options**: Generate reports in PDF or Excel format.
 
+## Screenshots
+- ScreenShot 1:
+ [Screenshot 1](screenshot/img1.png)
+
+ 
 ## Setup Instructions
 1. Install required dependencies:
    ```bash
@@ -22,9 +27,3 @@ This is a customer relationship management (CRM) tool built using PyQt5 and SQLi
 2.	Run the application:
    ```bash
    python crm.py
-
-
-
-## Screenshots
-
-![Screenshot 1](screenshots/img1.png)
